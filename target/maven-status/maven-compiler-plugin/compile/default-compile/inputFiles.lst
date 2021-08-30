@@ -1,0 +1,15 @@
+/home/bilal/boop/person-management/src/main/java/person/management/model/Address.java
+/home/bilal/boop/person-management/src/main/java/person/management/cmd/CreateAddressCmd.java
+/home/bilal/boop/person-management/src/main/java/person/management/repository/AddressRepository.java
+/home/bilal/boop/person-management/src/main/java/person/management/cmd/CreatePersonCmd.java
+/home/bilal/boop/person-management/src/main/java/person/management/model/Person.java
+/home/bilal/boop/person-management/src/main/java/person/management/controller/PersonController.java
+/home/bilal/boop/person-management/src/main/java/person/management/service/AddressService.java
+/home/bilal/boop/person-management/src/main/java/person/management/controller/AddressController.java
+/home/bilal/boop/person-management/src/main/java/person/management/dto/AddressDto.java
+/home/bilal/boop/person-management/src/main/java/person/management/PersonManagementApplication.java
+/home/bilal/boop/person-management/src/main/java/person/management/dto/PersonDto.java
+/home/bilal/boop/person-management/src/main/java/person/management/model/AbstractEntity.java
+/home/bilal/boop/person-management/src/main/java/person/management/mapper/PersonAddressMapper.java
+/home/bilal/boop/person-management/src/main/java/person/management/service/PersonService.java
+/home/bilal/boop/person-management/src/main/java/person/management/repository/PersonRepository.java

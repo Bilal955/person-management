@@ -1,0 +1,17 @@
+person/management/cmd/CreatePersonCmd.class
+person/management/mapper/PersonAddressMapper.class
+person/management/service/AddressService.class
+person/management/service/PersonService.class
+person/management/model/Person.class
+person/management/PersonManagementApplication.class
+person/management/dto/AddressDto.class
+person/management/controller/AddressController.class
+person/management/repository/AddressRepository.class
+person/management/controller/PersonController.class
+person/management/repository/PersonRepository.class
+person/management/model/Address.class
+person/management/cmd/CreateAddressCmd.class
+person/management/dto/PersonDto.class
+person/management/model/AbstractEntity.class
+person/management/model/Address$AddressBuilder.class
+person/management/model/Person$PersonBuilder.class

@@ -1,0 +1,2 @@
+create table person(id bigserial not null,first_name varchar not null,last_name varchar not null,primary key (id));
+create table address(id bigserial not null,street varchar not null,city varchar not null,state varchar not null,postal_code varchar,person_id int8,primary key (id));
